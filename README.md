@@ -17,8 +17,7 @@ The sample module will be tested on both python2 and python3.
 To run the tests, you'll also need `pip install pytest`.
 
 The included tox.ini uses any installed version of python 2 and python 3.
-If you want to be more specific, change `py2` to `py27`, `py3`  to `py35`,
-etc.
+If you want to be more specific, you can also use `py27`, `py35`, etc.
 
 # Docker
 
